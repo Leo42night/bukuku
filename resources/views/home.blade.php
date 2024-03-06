@@ -18,7 +18,7 @@
     <body class="antialiased">
         <h1>Home</h1>
         <p>
-        Hallo teman! Selamat datang di Beranda Bukuku, tempat di mana petualangan literer Anda dimulai. Beranda Bukuku adalah jendela yang membuka dunia luas dari kata-kata, cerita, dan pengetahuan. Dibuat dengan perhatian pada detail dan kebutuhan pembaca modern.
+        Hallo guys! Selamat datang di Beranda Bukuku, tempat di mana petualangan literer Anda dimulai. Beranda Bukuku adalah jendela yang membuka dunia luas dari kata-kata, cerita, dan pengetahuan. Dibuat dengan perhatian pada detail dan kebutuhan pembaca modern.
         </p>
     </body>
 </html>
