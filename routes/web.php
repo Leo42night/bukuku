@@ -26,3 +26,6 @@ Route::get('about', function () {
     return view('about');
 });
 
+Route::get('kategori', function () {
+    return view('kategori');
+});
