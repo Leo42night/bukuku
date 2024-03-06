@@ -17,16 +17,5 @@
     </head>
     <body class="antialiased">
        <h1>Detail</h1>
-       <p>Judul Buku</p>
-       <p>Detail buku</p>
-       <p>Tentang edisi ini</p>
-       <table border="1">
-        <tr>
-            <th>ISBN</th>
-            <th>Penerbit</th>
-            <th>Bahasa</th>
-        </tr></table>
-
-        <p>Sinopsis</p>
     </body>
 </html>
