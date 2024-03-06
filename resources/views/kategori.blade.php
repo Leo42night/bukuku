@@ -17,5 +17,10 @@
     </head>
     <body class="antialiased">
         <h1>kategori</h1>
+
+        <p>Buku adalah sumber pengetahuan dan hiburan yang tak tergantikan. Dengan setiap halaman yang dibaca, kita memasuki dunia baru yang penuh petualangan dan pengetahuan. Masing-masing buku memiliki cerita dan pesan uniknya sendiri, menjadi teman setia dalam perjalanan hidup. Maka, mari terus menjelajahi halaman-halaman buku dan meresapi keindahan kata-kata yang terpahat di dalamnya.</p>
+
+    </body>
+</html>
     </body>
 </html>
