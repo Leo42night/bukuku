@@ -14,7 +14,7 @@
             padding: 0;
         }
 
-        /* Custom Styles */
+       
         body {
             font-family: 'Figtree', sans-serif;
             background-color: #f3f4f6;
