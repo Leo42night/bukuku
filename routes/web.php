@@ -18,6 +18,7 @@ Route::get('/', function () {
 });
 
 
+
 Route::get('/home', function () {
     return view('beranda');
 });
@@ -28,4 +29,8 @@ Route::get('about', function () {
 
 Route::get('kategori', function () {
     return view('kategori');
+});
+
+Route::get('detail', function () {
+    return view('detail');
 });
