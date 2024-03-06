@@ -25,8 +25,8 @@
             <th>ISBN</th>
             <th>Penerbit</th>
             <th>Bahasa</th>
-        </tr></table>
-
-        <p>Sinopsis</p>
+        </tr>
+    </table>
+    <p>Sinopsis</p>
     </body>
 </html>
