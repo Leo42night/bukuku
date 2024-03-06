@@ -17,7 +17,7 @@
     </head>
     <body class="antialiased">
         <h1>Home</h1>
-        <p> halaman ini merupakan sebuah halaman home dalam website Bukuku
+        <p>
         Selamat datang di Beranda Bukuku, tempat di mana petualangan literer Anda dimulai. Beranda Bukuku adalah jendela yang membuka dunia luas dari kata-kata, cerita, dan pengetahuan. Dibuat dengan perhatian pada detail dan kebutuhan pembaca modern, Beranda Bukuku adalah pusat informasi dan inspirasi untuk semua hal berkaitan dengan dunia buku.
         </p>
     </body>
