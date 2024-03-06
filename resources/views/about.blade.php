@@ -59,8 +59,7 @@
     <div class="container">
         <h1>ABOUT</h1>
         <img src="gambarbuku.jpg" alt="Book Cover" width="200">
-        <p>Tentu, berikut adalah satu paragraf tentang aplikasi "BukuKu":
-            "BukuKu adalah sebuah aplikasi yang didesain untuk memberikan pengalaman membaca yang menyenangkan dan interaktif kepada pengguna. Dengan berbagai fitur yang intuitif, BukuKu memungkinkan pengguna untuk menjelajahi beragam koleksi buku dalam berbagai genre dengan mudah. Pengguna dapat menikmati kemudahan membaca, melakukan penandaan halaman, dan berbagi kesan serta ulasan tentang buku-buku favorit mereka dengan komunitas pembaca lainnya. Dengan antarmuka yang ramah pengguna dan tampilan yang menarik, BukuKu menjadi teman setia bagi para pecinta buku dalam menjelajahi dunia literatur."
+        <p> "BukuKu adalah sebuah aplikasi yang didesain untuk memberikan pengalaman membaca yang menyenangkan dan interaktif kepada pengguna. Dengan berbagai fitur yang intuitif, BukuKu memungkinkan pengguna untuk menjelajahi beragam koleksi buku dalam berbagai genre dengan mudah. Pengguna dapat menikmati kemudahan membaca, melakukan penandaan halaman, dan berbagi kesan serta ulasan tentang buku-buku favorit mereka dengan komunitas pembaca lainnya. Dengan antarmuka yang ramah pengguna dan tampilan yang menarik, BukuKu menjadi teman setia bagi para pecinta buku dalam menjelajahi dunia literatur."
         </p>
     </div>
 </body>
