@@ -7,13 +7,12 @@
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
     <style>
-        /* Reset CSS */
+
         * {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
         }
-
        
         body {
             font-family: 'Figtree', sans-serif;
@@ -33,8 +32,8 @@
         }
 
         h1 {
-            font-size: 2.5rem; /* Ubah ukuran tulisan menjadi 2.5 rem */
-            font-family: 'Arial', sans-serif; /* Ubah jenis tulisan menjadi Arial */
+            font-size: 2.5rem; 
+            font-family: 'Arial', sans-serif; 
             color: #333;
             margin-bottom: 20px;
             text-align: center;
